@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7b375b3abb0b483fd0d98.jpg">
+  <img src="https://telegra.ph/file/8f6dc8c4536b52ca3271c.jpg">
 </p>
 
-### Found Me On Telegram [@JisooXRobot](https://t.me/JisooXRobot)
+### Found Me On Telegram [@ParadiseManagerbot](https://t.me/ParadiseManagerbot)
 
 
 
@@ -22,6 +22,6 @@
 
 ## Group Support:
 
-   <a href="https://t.me/JisooSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/paradiseuserbot"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 ### Credit :  [Cinderella](https://github.com/Sur-vivor/CinderellaProBot) And [DaisyX](https://github.com/TeamDaisyX/DaisyX)           
