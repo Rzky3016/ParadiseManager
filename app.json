@@ -81,11 +81,11 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "1669508271"
+         "value": "1442431414"
       },
       "OWNER_NAME": {
          "description": "Your Name",
-         "value": "Feri"
+         "value": "Rizky"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -107,7 +107,7 @@
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/c4c66449d0dfcf5f24b50.jpg"    
+         "value": "https://telegra.ph/file/8f6dc8c4536b52ca3271c.jpg"    
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information",
@@ -186,7 +186,7 @@
     }
   ],
    "name": "JisooX",
-   "repository": "https://github.com/ferikunn/JisooX",
-   "success_url": "https://telegram.dog/JisoXRobot",
-   "logo": "https://telegra.ph/file/c4c66449d0dfcf5f24b50.jpg"
+   "repository": "https://github.com/Rzky3016/ParadiseManager",
+   "success_url": "https://telegram.dog/ParadiseManagerbot",
+   "logo": "https://telegra.ph/file/8f6dc8c4536b52ca3271c.jpg"
 }
